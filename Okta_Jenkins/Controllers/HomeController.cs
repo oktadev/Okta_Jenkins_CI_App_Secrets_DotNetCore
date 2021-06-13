@@ -20,7 +20,6 @@ namespace Okta_Jenkins.Controllers
 
         public IActionResult Index()
         {
-            //add comment for test
             return View();
         }
     }
